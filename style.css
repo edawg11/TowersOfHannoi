@@ -10,7 +10,7 @@
 
 .tower {
 	display: inline-block;
-	width: 30%;
+	width: 32%;
 	height: 100%;
 	
 }
@@ -48,6 +48,6 @@
 }
 
 #small {
-	width: 100%;
+	width: 50%;
 	height:15%;
 }
